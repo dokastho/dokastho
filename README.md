@@ -5,7 +5,7 @@
     <i>
         I'm TJ!<br>
         I'm a new grad 🎓 from the University of Michigan with a Bachelor's in Computer Science & Engineering and a minor in Mathematics.
-        I'm a full-stack developer with special focuses in 🎯 operating systems 🎯 distributed systems and 🎯 computer networking.<br>
+        I'm a full-stack developer with special focuses in operating systems, distributed systems and computer networking.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/thomas-dokas-8a078a1b3">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
