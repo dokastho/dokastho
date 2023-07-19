@@ -33,6 +33,7 @@
 ### OS
 [![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)](https://github.com/dokastho)
 [![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/dokastho)
+[![MacOS](https://img.shields.io/badge/macos-black?style=for-the-badge&logo=MacOS)](https://github.com/dokastho)
 
 <details>
 <p align="center">
