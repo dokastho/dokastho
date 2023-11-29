@@ -18,7 +18,7 @@
 ### Languages
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/dokastho)
 [![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)](https://github.com/dokastho)
-[![C#](https://img.shields.io/badge/c#-black?style=for-the-badge&logo=csharp)](https://github.com/dokastho)
+[![C#](https://img.shields.io/badge/cs-black?style=for-the-badge&logo=csharp)](https://github.com/dokastho)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/dokastho)
 [![Golang](https://img.shields.io/badge/go-black?style=for-the-badge&logo=go)](https://github.com/dokastho)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/dokastho)
@@ -28,6 +28,8 @@
 
 ### Technologies & Frameworks
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/dokastho)
+[![Angular](https://img.shields.io/badge/Angular-black?style=for-the-badge&logo=Angular)](https://github.com/dokastho)
+[![Swift](https://img.shields.io/badge/Swift-black?style=for-the-badge&logo=Swift)](https://github.com/dokastho)
 [![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/dokastho)
 [![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/dokastho)
 
