@@ -4,8 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm TJ!<br>
-        I'm a new grad 🎓 from the University of Michigan with a Bachelor's in Computer Science & Engineering and a minor in Mathematics.
-        I'm a full-stack developer with special focuses in operating systems, distributed systems and computer networking.<br>
+        I'm an Embedded Systems Software Engineer on Apple's CoreBSP team. I have a B.S.E. in Computer Science Engineering and a minor in Mathematics from the University of Michigan.<br>
     </i><br>
     <a href="https://www.linkedin.com/in/dokastho">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
